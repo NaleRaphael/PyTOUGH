@@ -18,6 +18,11 @@ To check the path of installed files, you can add a variable
 ```
 You can see that all source files should be copied into a directory `..\site-package\pytough\`.
 
+To use this version of PyTOUGH package, just insert this line in a python script 
+```python
+import pytough
+```
+
 # Run example
 
 Ex: run `demo_horizontal1D.py`
